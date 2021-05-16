@@ -1,6 +1,6 @@
 # videostream
 
-instead of requesting the total video file you can send chunks of data to save the user's date
+instead of requesting the total video file you can send chunks of data to save the user's data
 
 # Pros
 
